@@ -1,4 +1,4 @@
-Medimorph – Evolve the Way You Manage Your Medication
+Medimorph – Evolve the Way You Manage Your Medications
 
 Medimorph is a powerful, secure, and user-centered medication management platform built to support users in every step of their health journey. Whether you're managing one prescription or navigating complex treatment regimens, Medimorph provides intelligent tools, real-world insights, and advanced security to make medication management simple, informed, and personalized.
 
