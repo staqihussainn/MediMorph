@@ -8,7 +8,7 @@ Medication is more than just a schedule — it's a process that affects your min
 
 🔐 Robust Security & Biometric Login:
 
-We take your privacy seriously. Medimorph uses end-to-end encryption and supports biometric login (Face ID, fingerprint recognition) to ensure only you can access your data. Every user also receives a unique API key, allowing for secure data syncing across systems without compromising privacy.
+We take your privacy seriously. Medimorph uses end-to-end encryption and supports biometric login (Face ID, fingerprint recognition) to edsnsure only you can access your data. Every user also receives a unique API key, allowing for secure data syncing across systems without compromising privacy.
 
 -> Biometric login for fast, secure access
 
